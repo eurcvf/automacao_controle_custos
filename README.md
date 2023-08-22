@@ -8,9 +8,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto automacao_controle_custos é uma automação de processo onde ele deixa dinâmico o mouse, teclado e tela, capturando uma base de dados,
-fazendo o calculo do gasto total, quantidade e ticket_medio e enviando um e-mail. Toda a atividade feita, você, humano, não precisará se quer
-colocar a mão em seu mouse ou teclado, o sistema faz tudo sozinho.
+O projeto automacao_controle_custos é uma automação que faz com que o seu mouse, teclado e tela consigam desempenhar as suas atividades rotineiras, 
+neste projeto foi utilizado uma base de dados, e o sistema faz o calculo do gasto total, quantidade e ticket_medio e envia um e-mail. Tudo de maneira
+automatizada, sem precisar colocar as mãos no teclado ou no mouse.
 
 - [Tenha o projeto finalizado clicando aqui! ](https://github.com/eurcvf/automacao_controle_custos)
 
